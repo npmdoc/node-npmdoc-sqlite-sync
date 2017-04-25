@@ -1,4 +1,7 @@
-# api documentation for  [sqlite-sync (v0.3.6)](https://github.com/JayrAlencar/sqlite-sync.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-sqlite-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sqlite-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sqlite-sync.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sqlite-sync)
+# npmdoc-sqlite-sync
+
+#### basic api documentation for  [sqlite-sync (v0.3.6)](https://github.com/JayrAlencar/sqlite-sync.js#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-sqlite-sync.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-sqlite-sync) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-sqlite-sync.svg)](https://travis-ci.org/npmdoc/node-npmdoc-sqlite-sync)
+
 #### Node module to sqlite sync and async
 
 [![NPM](https://nodei.co/npm/sqlite-sync.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/sqlite-sync)
@@ -69,7 +72,8 @@
         "async",
         "database"
     ],
-    "version": "0.3.6"
+    "version": "0.3.6",
+    "bin": {}
 }
 ```
 
